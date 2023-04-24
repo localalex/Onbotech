@@ -1,0 +1,49 @@
+Name: Onbotech
+
+Please see PowerPoint for visual presentation of how the Onbotech PD system could look like. 
+This is meant to be a framework that must be customized to a particular school that wishes to deploy it.
+
+Framework that can be tailored to meet the needs of schools 
+when providing technology training & PD during the onboarding 
+and re-onboarding of faculty and staff.
+
+How to use it:
+-- Decide on a course sequence for your school. The course map is a suggested progression for faculty and staff.  
+-- Begin creating courses in your school’s LMS.  Start out with 100 and 200 level courses.  Use the details on each course page as a template and customize to your campus community needs.
+-- Enroll newly hired employees in Tech 101 and begin existing faculty and staff at the Tech 200 level.
+
+Why LMS Examples?
+-- Professional development is teaching and learning for an adult audience.
+-- Your school already utilizes and pays for an LMS.
+-- Having teachers enrolled in a course as students provides valuable first-hand experience.
+-- Modern LMS’s provide a platform for self-paced, asynchronous learning and allow users to revisit topics as needed.
+-- You can showcase the features of your LMS to help improve teacher usage.
+
+Course Map
+
+Tech 101 - Introduction to School Technology Systems
+All users. No prerequisites.
+
+Tech 201 - Making the Most of Your LMS
+For faculty.  Prerequisite Tech 101.
+
+Tech 202 - Making the Most of Classroom Technology
+For faculty.  Prerequisite Tech 101. Pre- or corequisite Tech 201.
+
+Tech 203 - Technology Best Practices for Staff and Administrators
+For all non-faculty who work with student data. Prerequisite Tech 101.
+
+Tech 301 - New and Emerging Trends In Educational Technology
+For faculty.  Prerequisite Tech 101. Pre- or corequisite Tech 201 & Tech 202.
+
+Tech 302 - Using Technology to Differentiate Learning
+For faculty.  Prerequisite Tech 101. Pre- or corequisite Tech 201 & Tech 202.
+
+Tech 303 - New and Emerging Trends In Business Technology
+For all non-faculty who work with student data.  Pre- or corequisite Tech 203.
+
+Tech 401 - Independent Study for Advanced Tech Users
+For all faculty and staff.  Prerequisite 300 level Tech course.
+
+
+
